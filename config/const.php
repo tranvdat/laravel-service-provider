@@ -1,0 +1,5 @@
+<?php
+
+if(!defined('DAYOFF_STATUS_REQUEST')) define('DAYOFF_STATUS_REQUEST', 1);
+if(!defined('DAYOFF_STATUS_APPROVAL')) define('DAYOFF_STATUS_APPROVAL', 2);
+if(!defined('DAYOFF_STATUS_REFUSE')) define('DAYOFF_STATUS_REFUSE', 3);
