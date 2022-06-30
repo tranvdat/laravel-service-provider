@@ -4,7 +4,7 @@ namespace App\Providers;
 
 use App\Services\Domain\Notification\DeviceNotification;
 use App\Services\Domain\Notification\EmailNotification;
-use App\Services\Interface\INotification;
+use App\Services\Interfaces\INotification;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider

@@ -2,7 +2,7 @@
 
 namespace App\Services\Domain\Notification;
 
-use App\Services\Interface\INotification;
+use App\Services\Interfaces\INotification;
 
 class DeviceNotification implements INotification
 {
